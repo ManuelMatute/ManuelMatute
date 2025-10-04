@@ -38,13 +38,13 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 
 <p align="center">
   <a href="https://github.com/JosuePach3co/ProyectoEstructuraDatos.git">
-    <img src="https://img.shields.io/badge/Proyecto%20IA-3776AB?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Proyecto%20Estructura-3776AB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/dgoscalant/PAR5_PROY2P_Escalante_Guijarro_Matute.git">
-    <img src="https://img.shields.io/badge/Portafolio%20Web-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sistema%20Aeropuerto-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/dgoscalant/POO5_1P_ESCALANTE_GUIJARRO_MATUTE.git">
-    <img src="https://img.shields.io/badge/Análisis%20de%20Datos-2F8D46?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sistema%20de%20Delivery-2F8D46?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
