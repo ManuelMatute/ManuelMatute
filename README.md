@@ -1,5 +1,11 @@
 #  ¡Bienvenido a mi repositorio personal! 👨‍💻
 
+<p align="center">
+    <img width="615" height="889" alt="unnamed02" src="https://github.com/user-attachments/assets/0137cbcd-8531-4ad9-8a08-e4b81e213ab4" />
+</p>
+
+
+
 Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas. En este repositorio, comparto mis proyectos, conocimientos y mi camino profesional. ¡Gracias por pasarte por aquí! 
 
 ---
