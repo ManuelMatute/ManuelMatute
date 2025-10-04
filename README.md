@@ -16,10 +16,9 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 1. [Información Personal](#información-personal)
 2. [Proyectos Destacados](#proyectos-destacados)
 3. [Tecnologías que Uso](#tecnologías-que-uso)
-4. [Estado de los Proyectos](#estado-de-los-proyectos)
-5. [Intereses](#intereses)
-6. [Contacto](#contacto)
-7. [Mis Metas](#mis-metas)
+4. [Intereses](#intereses)
+5. [Contacto](#contacto)
+6. [Mis Metas](#mis-metas)
 
 ---
 
