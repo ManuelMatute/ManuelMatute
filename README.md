@@ -1,6 +1,6 @@
 #  ¡Bienvenido a mi repositorio personal! 👨‍💻
 
-Soy **Manuel Matute**, Ingeniero en Computación, apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas. En este repositorio, comparto mis proyectos, conocimientos y mi camino profesional. ¡Gracias por pasarte por aquí! 
+Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas. En este repositorio, comparto mis proyectos, conocimientos y mi camino profesional. ¡Gracias por pasarte por aquí! 
 
 ---
 
