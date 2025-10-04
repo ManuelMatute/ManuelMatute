@@ -35,6 +35,7 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 Aquí están algunas de las tecnologías que domino:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -44,8 +45,8 @@ Aquí están algunas de las tecnologías que domino:
 
 ##  Mis Metas
 
-- [x] **Finalizar Proyecto 1** - Terminando la integración con la base de datos.
-- [ ] **Lanzar Proyecto 2** - Pendiente de completar pruebas de seguridad.
+- [x] **Empezar mi primer Proyecto** - Iniciando con la integración del HTML.
+- [ ] **Dominar JavaScript** - Pendiente de completar pruebas de seguridad.
 - [ ] **Aprender sobre IA** - Completar curso avanzado de Machine Learning.
 
 
@@ -75,7 +76,7 @@ Además de la programación, tengo intereses en otras áreas, como:
 
 ##  ¿Te interesa colaborar?
 
-¡Estoy siempre buscando nuevas ideas para proyectos! Si te gustaría colaborar o aprender más sobre mis proyectos, **[mándame un mensaje aquí](mailto:manuel@correo.com)**. ¡Estaré encantado de conectarme!
+¡Estoy siempre buscando nuevas ideas para proyectos! Si te gustaría colaborar o aprender más sobre mis proyectos, **[mándame un mensaje aquí](mailto:ManuelMatuteAF6983@gmail.com)**. ¡Estaré encantado de conectarme!
 
 ---
 
