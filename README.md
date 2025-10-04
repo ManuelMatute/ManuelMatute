@@ -48,13 +48,13 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 </p>
 
 
-**🕸️ Estructuras de Datos (Grafos)**  
+**- Estructuras de Datos (Grafos)**  
 Proyecto académico donde se implementaron **grafos y algoritmos de recorrido (BFS, DFS, Dijkstra)** en **Java** para representar y analizar conexiones entre nodos. Sirvió como práctica de optimización y manejo de estructuras de datos complejas.
 
-**✈️ Sistema de Aeropuertos**  
+**- Sistema de Aeropuertos**  
 Aplicación en **Java** que gestiona vuelos, aerolíneas y rutas entre aeropuertos. Incluye registro de aviones, control de destinos y simulación básica de itinerarios, aplicando principios de **orientación a objetos** y **persistencia de datos**.
 
-**🚚 Sistema de Delivery**  
+**- Sistema de Delivery**  
 Desarrollo de una plataforma en **Java** para la gestión de pedidos, clientes y repartidores. Implementa funcionalidades de asignación de entregas, cálculo de tiempos y almacenamiento local de información, enfocándose en la **modularidad y eficiencia del código**.
 
 ---
