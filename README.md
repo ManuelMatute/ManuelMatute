@@ -26,7 +26,7 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 ##  Información Personal
 
 - **Nombre**: Manuel Matute
-- **Ocupación**: Ingeniero en Computación
+- **Ocupación**: Estudiante
 - **Ubicación**: Ecuador
 
 
