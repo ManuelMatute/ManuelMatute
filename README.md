@@ -34,7 +34,6 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 
 ##  Proyectos Destacados
 
-## 💼 Mis Proyectos
 
 <p align="center">
   <a href="https://github.com/JosuePach3co/ProyectoEstructuraDatos.git">
