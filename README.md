@@ -1,7 +1,7 @@
 #  ¡Bienvenido a mi repositorio personal! 👨‍💻
 
 <p align="center">
-    <img width="615" height="889" alt="img123" src="https://github.com/user-attachments/assets/7932f113-b596-4e5e-ad6c-587c5519624d" />
+    <img style="width: 40%; max-width: 150px; border-radius: 50%;" alt="img123" src="https://github.com/user-attachments/assets/7932f113-b596-4e5e-ad6c-587c5519624d" />
 </p>
 
 
