@@ -37,7 +37,7 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 
 <p align="center">
   <a href="https://github.com/ManuelMatute/mobile015.git">
-    <img src="https://img.shields.io/badge/Proyecto%20Estructura-3776AB?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reading%20Habits-3776AB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/ManuelMatute/SistemaControlVuelo.git">
     <img src="https://img.shields.io/badge/Sistema%20de%20Control-2F8D46?style=for-the-badge&logo=github&logoColor=white" />
