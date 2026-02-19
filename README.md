@@ -36,26 +36,21 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 
 
 <p align="center">
-  <a href="https://github.com/JosuePach3co/ProyectoEstructuraDatos.git">
+  <a href="https://github.com/ManuelMatute/mobile015.git">
     <img src="https://img.shields.io/badge/Proyecto%20Estructura-3776AB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/dgoscalant/PAR5_PROY2P_Escalante_Guijarro_Matute.git">
-    <img src="https://img.shields.io/badge/Sistema%20Aeropuerto-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/dgoscalant/POO5_1P_ESCALANTE_GUIJARRO_MATUTE.git">
-    <img src="https://img.shields.io/badge/Sistema%20de%20Delivery-2F8D46?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ManuelMatute/SistemaControlVuelo.git">
+    <img src="https://img.shields.io/badge/Sistema%20de%20Control-2F8D46?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 
-**- Estructuras de Datos (Grafos)**  
-Proyecto académico donde se implementaron **grafos y algoritmos de recorrido (BFS, DFS, Dijkstra)** en **Java** para representar y analizar conexiones entre nodos. Sirvió como práctica de optimización y manejo de estructuras de datos complejas.
 
-**- Sistema de Aeropuertos**  
+**- Reading Habits**  
 Aplicación en **Java** que gestiona vuelos, aerolíneas y rutas entre aeropuertos. Incluye registro de aviones, control de destinos y simulación básica de itinerarios, aplicando principios de **orientación a objetos** y **persistencia de datos**.
 
 **- Sistema de Delivery**  
-Desarrollo de una plataforma en **Java** para la gestión de pedidos, clientes y repartidores. Implementa funcionalidades de asignación de entregas, cálculo de tiempos y almacenamiento local de información, enfocándose en la **modularidad y eficiencia del código**.
+Proyecto académico donde se implementaron **grafos y algoritmos de recorrido (BFS, DFS, Dijkstra)** en **Java** para representar y analizar conexiones entre nodos. Sirvió como práctica de optimización y manejo de estructuras de datos complejas
 
 ---
 
