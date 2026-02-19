@@ -49,7 +49,7 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 **- Reading Habits**  
 Aplicación en **Java** que gestiona vuelos, aerolíneas y rutas entre aeropuertos. Incluye registro de aviones, control de destinos y simulación básica de itinerarios, aplicando principios de **orientación a objetos** y **persistencia de datos**.
 
-**- Sistema de Delivery**  
+**- Sistema Control de Vuelos**  
 Proyecto académico donde se implementaron **grafos y algoritmos de recorrido (BFS, DFS, Dijkstra)** en **Java** para representar y analizar conexiones entre nodos. Sirvió como práctica de optimización y manejo de estructuras de datos complejas
 
 ---
