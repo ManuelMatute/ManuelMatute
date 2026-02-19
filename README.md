@@ -89,17 +89,6 @@ Si deseas ponerte en contacto conmigo o colaborar en algún proyecto, no dudes e
 - **LinkedIn**: ((https://www.linkedin.com/in/manuel-alejandro-matute-fern%C3%A1ndez-520941239/))
 - **GitHub**: (https://github.com/ManuelMatute/ManuelMatute/)
 
----
-
-##  Mis Intereses
-
-Además de la programación, tengo intereses en otras áreas, como:
-
-- 🧠 **Inteligencia Artificial**
-- 🖥️ **Desarrollo Web**
-- 🕹️ **Videojuegos y Gamificación**
-- 🌱 **Cocina**
-- 📚 **Lectura**
 
 ---
 
