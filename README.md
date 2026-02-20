@@ -47,7 +47,8 @@ Soy **Manuel Matute**, estudiante de Ingeniería en Computación, apasionado por
 
 
 **- Reading Habits**  
-Aplicación en **Java** que gestiona vuelos, aerolíneas y rutas entre aeropuertos. Incluye registro de aviones, control de destinos y simulación básica de itinerarios, aplicando principios de **orientación a objetos** y **persistencia de datos**.
+Reading Habit es una aplicación móvil y web desarrollada con Ionic + React + TypeScript que ayuda a las personas a crear y mantener un hábito de lectura de forma simple, visual y motivadora.
+La app permite descubrir libros, organizarlos en listas personales y hacer seguimiento del progreso de lectura día a día, transformando la lectura en una experiencia más estructurada y constante.
 
 **- Sistema Control de Vuelos**  
 Proyecto académico donde se implementaron **grafos y algoritmos de recorrido (BFS, DFS, Dijkstra)** en **Java** para representar y analizar conexiones entre nodos. Sirvió como práctica de optimización y manejo de estructuras de datos complejas
