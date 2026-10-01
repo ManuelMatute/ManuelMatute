@@ -71,7 +71,7 @@ Aquí están algunas de las tecnologías que domino:
 ##  Mis Metas
 
 - [x] **Empezar mi primer Proyecto** - Iniciando con la integración del HTML.
-- [ ] **Dominar JavaScript** - Pendiente de completar pruebas de seguridad.
+- [x] **Dominar JavaScript** - Pendiente de completar pruebas de seguridad.
 - [ ] **Aprender sobre IA** - Completar curso avanzado de Machine Learning.
 
 
